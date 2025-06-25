@@ -1,0 +1,14 @@
+add_subdirectory(test_string)
+add_subdirectory(test_numeric)
+add_subdirectory(test_hexlify)
+add_subdirectory(test_hexdumper)
+add_subdirectory(test_flagparser)
+add_subdirectory(test_pluginloader)
+add_subdirectory(test_iniparser)
+add_subdirectory(test_boolexprparser)
+add_subdirectory(test_fileviewer)
+add_subdirectory(test_filelister)
+
+add_subdirectory(test_calculator)
+
+
