@@ -8,6 +8,7 @@ add_subdirectory(test_iniparser)
 add_subdirectory(test_boolexprparser)
 add_subdirectory(test_fileviewer)
 add_subdirectory(test_filelister)
+add_subdirectory(test_argsparser)
 
 add_subdirectory(test_calculator)
 
