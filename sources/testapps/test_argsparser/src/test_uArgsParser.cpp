@@ -1,6 +1,7 @@
 #include "uArgsParser.hpp"
 
-int main(int argc, char* argv[]) {
+int main(int argc, const char *argv[])
+{
     CommandLineParser cli("My Tool");
 
     cli.add_option("file", "Input file path");

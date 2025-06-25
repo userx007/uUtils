@@ -39,6 +39,7 @@ install ( TARGETS test_calculator           DESTINATION ${INSTALL_DIR} )
 install ( TARGETS test_fileviewer           DESTINATION ${INSTALL_DIR} )
 install ( TARGETS test_filelister           DESTINATION ${INSTALL_DIR} )
 install ( TARGETS test_argsparser           DESTINATION ${INSTALL_DIR} )
+install ( TARGETS test_argsparserext        DESTINATION ${INSTALL_DIR} )
 install ( TARGETS calculator                DESTINATION ${INSTALL_DIR} )
 
 
